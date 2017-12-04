@@ -1,0 +1,25 @@
+{
+  "name": "friend-finder",
+  "version": "1.0.0",
+  "description": "This application will match two people by comparing the profile of the user with the existing profiles in the database.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxsho/friend-finder.git"
+  },
+  "author": "Majid S",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxsho/friend-finder/issues"
+  },
+  "homepage": "https://github.com/maxsho/friend-finder#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "path": "^0.12.7"
+  }
+}
