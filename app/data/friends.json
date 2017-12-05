@@ -32,22 +32,6 @@
     ]
   },
   {
-    "name": "Blake Lively",
-    "photo": "http://www.celebritybeliefs.com/wp-content/uploads/2016/07/blake-lively-hobbies-religion-political-views.jpg",
-    "scores": [
-      3,
-      4,
-      2,
-      3,
-      5,
-      5,
-      1,
-      4,
-      3,
-      4
-    ]
-  },
-  {
     "name": "Selena",
     "photo": "https://s-i.huffpost.com/gen/1165206/images/h-CELEBRITY-SPONSORED-TWEETS-628x314.jpg",
     "scores": [
@@ -65,54 +49,6 @@
   },
   {
     "name": "Helena",
-    "photo": "https://s-i.huffpost.com/gen/1165206/images/h-CELEBRITY-SPONSORED-TWEETS-628x314.jpg",
-    "scores": [
-      "3",
-      "4",
-      "2",
-      "3",
-      "5",
-      "5",
-      "1",
-      "4",
-      "3",
-      "4"
-    ]
-  },
-  {
-    "name": "Helena",
-    "photo": "https://s-i.huffpost.com/gen/1165206/images/h-CELEBRITY-SPONSORED-TWEETS-628x314.jpg",
-    "scores": [
-      "3",
-      "4",
-      "2",
-      "3",
-      "5",
-      "5",
-      "1",
-      "4",
-      "3",
-      "4"
-    ]
-  },
-  {
-    "name": "Molena",
-    "photo": "https://s-i.huffpost.com/gen/1165206/images/h-CELEBRITY-SPONSORED-TWEETS-628x314.jpg",
-    "scores": [
-      "3",
-      "4",
-      "2",
-      "3",
-      "5",
-      "5",
-      "1",
-      "4",
-      "3",
-      "4"
-    ]
-  },
-  {
-    "name": "Palena",
     "photo": "https://s-i.huffpost.com/gen/1165206/images/h-CELEBRITY-SPONSORED-TWEETS-628x314.jpg",
     "scores": [
       "3",
@@ -160,35 +96,19 @@
     ]
   },
   {
-    "name": "Mike",
-    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/A._Schwarzenegger.jpg/220px-A._Schwarzenegger.jpg",
+    "name": "Jack",
+    "photo": "https://i.pinimg.com/736x/39/0f/08/390f084d6210e85f82da4085913ed6d8--film-d-%C3%A9pouvante-jack-nicholson.jpg",
     "scores": [
+      "2",
+      "5",
+      "4",
       "1",
+      "4",
+      "3",
+      "2",
       "1",
-      "1",
-      "1",
-      "1",
-      "1",
-      "1",
-      "1",
-      "1",
-      "1"
-    ]
-  },
-  {
-    "name": "Max",
-    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/A._Schwarzenegger.jpg/220px-A._Schwarzenegger.jpg",
-    "scores": [
-      "1",
-      "1",
-      "1",
-      "1",
-      "1",
-      "1",
-      "1",
-      "1",
-      "1",
-      "1"
+      "5",
+      "2"
     ]
   }
 ]
